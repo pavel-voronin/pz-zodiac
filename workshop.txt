@@ -1,0 +1,6 @@
+version=1
+id=3499163920
+title=Zodiac
+description=Displays the zodiac sign on the Info Screen
+tags=Build 42;Interface;Misc;Pop Culture;Realistic;Silly/Fun
+visibility=public

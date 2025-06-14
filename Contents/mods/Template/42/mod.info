@@ -1,0 +1,8 @@
+id=zodiac
+modversion=1.0.0
+name=Zodiac
+author=kolpaque
+description=Displays the zodiac sign on the Info Screen
+poster=poster.png
+icon=icon.png
+versionMin=42.0

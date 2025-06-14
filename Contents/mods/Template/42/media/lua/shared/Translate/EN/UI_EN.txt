@@ -1,0 +1,17 @@
+UI_EN = {
+    UI_Zodiac_Title = "Zodiac",
+    UI_Zodiac_Aries = "Aries",
+    UI_Zodiac_Taurus = "Taurus",
+    UI_Zodiac_Gemini = "Gemini",
+    UI_Zodiac_Cancer = "Cancer",
+    UI_Zodiac_Leo = "Leo",
+    UI_Zodiac_Virgo = "Virgo",
+    UI_Zodiac_Libra = "Libra",
+    UI_Zodiac_Scorpio = "Scorpio",
+    UI_Zodiac_Sagittarius = "Sagittarius",
+    UI_Zodiac_Capricorn = "Capricorn",
+    UI_Zodiac_Aquarius = "Aquarius",
+    UI_Zodiac_Pisces = "Pisces",
+    UI_Zodiac_Ophiuchus = "Ophiuchus",
+    UI_Zodiac_Cetus = "Cetus",
+}

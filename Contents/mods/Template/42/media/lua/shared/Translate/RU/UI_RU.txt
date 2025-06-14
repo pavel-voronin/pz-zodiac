@@ -1,0 +1,17 @@
+UI_RU = {
+    UI_Zodiac_Title = "Знак зодиака",
+    UI_Zodiac_Aries = "Овен",
+    UI_Zodiac_Taurus = "Телец",
+    UI_Zodiac_Gemini = "Близнецы",
+    UI_Zodiac_Cancer = "Рак",
+    UI_Zodiac_Leo = "Лев",
+    UI_Zodiac_Virgo = "Дева",
+    UI_Zodiac_Libra = "Весы",
+    UI_Zodiac_Scorpio = "Скорпион",
+    UI_Zodiac_Sagittarius = "Стрелец",
+    UI_Zodiac_Capricorn = "Козерог",
+    UI_Zodiac_Aquarius = "Водолей",
+    UI_Zodiac_Pisces = "Рыбы",
+    UI_Zodiac_Ophiuchus = "Змееносец",
+    UI_Zodiac_Cetus = "Кит",
+}
